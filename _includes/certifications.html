@@ -1,0 +1,30 @@
+{% assign certs = site.data.data.certifications %}
+{% if certs %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    Certifications
+  </h2>
+
+  <ul class="list-unstyled cert-list">
+    {% for cert in certs %}
+
+      {% if cert.logo %}
+      <a href="{{ cert.link }}">
+        <img src="{{ site.baseurl }}/assets/images/{{ cert.logo }}" title="{{ cert.name}}">
+      </a>
+      {% else %}
+      <li><a href="{{ cert.link }}">
+        <p style="text-decoration: underline;">{{ cert.name }}</p>
+      </a></li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</section>
+{% endif %}

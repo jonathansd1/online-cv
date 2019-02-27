@@ -24,30 +24,35 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    #languages:
+    #  - idiom: English
+    #    level: Native
 
     interests:
-      - item: Climbing
+      - item: Star Trek
         link:
 
-      - item: Snowboarding
+      - item: Travel
         link:
 
-      - item: Cooking
+      - item: Techno & House Music
         link:
+
+      - item: Sci-Fi
+
+      - item: Politics
+        link:
+
+      - item: Horn
+        link: https://www.hornsociety.org/
 
 career-profile:
-    title: Career Profile
+    title: Professional Attributes
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        - Design, implement, and support cloud-based architectures
+        - Automate application and infrastructure deployment
+        - Adhere to best practice for infrastructure-as-code, configuration management, and version control
+        - Closely collaborate with a small, dedicated team of developers and engineers
 
 #education:
 #    - degree:
@@ -76,49 +81,46 @@ career-profile:
 #          - Bullet point
 #          - Bullet point
 
+## Logo is optional, but if file name is provided (and located in assets/images/), then the name will be alt text.
+## Link should be to validation or relevent website for your certification.
+certifications:
+    - name: SysOps Administrator - Associate
+      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2015-11-03&ci=AWS00160002
+      logo: sea.png
+
+    - name: Solutions Architect - Associate
+      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2016-02-02&ci=AWS00160002
+      logo: saa.png
+
+    - name: DevOps Engineer - Professional
+      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2016-05-31&ci=AWS00160002
+      logo: dep.png
+
+    - name: Solutions Architect - Professional
+      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2017-03-14&ci=AWS00160002
+      logo: sap.png
+
 experience:
-    - role: Lead Developer
+    - role: Cloud Solutions Architect
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: RightBrain Networks - Ann Arbor, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I am often the first technical resource made available to a new or potential client,
+        and as a result get to interface with people at all levels of an organization –
+        executives, project managers, developers & engineers – and speak to both the
+        business objectives & the more technical issues and goals. As the subject matter
+        expert, I examine a client’s criteria, design the appropriate enterprise-level solution,
+        and then lead a small, dedicated team in implementation.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Storage Technician, Message Archiver & Backup Service
+      time: 2013 - 2015
+      company: Barracuda Networks - Ann Arbor, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I was the first-line technical resource for customers who require assistance. This
+        meant managing multiple cases in different stages of progress, ranging from initial
+        installations & simple configuration tasks to multi-platform deployments & device-to-
+        device data migrations. All assistance was rendered remotely via SSH and remote
+        sessions and would often include interfacing with multiple team members.
 
 #projects:
 #    title: Projects
@@ -172,23 +174,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Amazon Web Services
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Microsoft Azure
+        level: 55%
 
-      - name: Angular
-        level: 98%
+      - name: JenkinsCI
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Kubernetes
         level: 60%
 
+      - name: Terraform
+        level: 80%
+
+      - name: Powershell
+        level: 40%
+
+      - name: Bash
+        level: 75%
+
+      - name: Python
+        level: 40%
+
+      - name: Ruby
+        level: 35%
+
+      - name: Git
+        level: 75%
+
+      - name: Chef
+        level: 65%
+
+      - name: SaltStack
+        level: 70%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -24,9 +24,9 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    #languages:
-    #  - idiom: English
-    #    level: Native
+    languages:
+      - idiom: English
+        level: Native
 
     interests:
       - item: Star Trek
@@ -47,7 +47,7 @@ sidebar:
         link: https://www.hornsociety.org/
 
 career-profile:
-    title: Professional Attributes
+    title: Professional Summary
     summary: |
         - Design, implement, and support cloud-based architectures
         - Automate application and infrastructure deployment

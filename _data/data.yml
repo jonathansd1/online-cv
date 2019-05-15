@@ -101,16 +101,25 @@ certifications:
       logo: sap.png
 
 experience:
+    - role: Autonomous Cloud Architect
+      time: 2019 - Present
+      company: Dynatrace - Detroit, MI
+      details: |
+        Dynatrace goes beyond APM with a new vision on how applications should be built and managed
+        -- Autonomous Cloud Management (ACM). I work with Fortune 1000 companies together with the
+        Dynatrace Innovation Lab, the Dynatrace product team, Dynatrace Professional Services, and
+        our most strategic Partners/Systems Integrators to help them achieve the same results we have
+        seen at Dynatrace.
     - role: Cloud Solutions Architect
-      time: 2015 - Present
+      time: 2015 - 2019
       company: RightBrain Networks - Ann Arbor, MI
       details: |
-        I am often the first technical resource made available to a new or potential client,
-        and as a result get to interface with people at all levels of an organization –
+        I was often the first technical resource made available to a new or potential client,
+        and, as a result, I would interface with people at all levels of an organization –
         executives, project managers, developers & engineers – and speak to both the
         business objectives & the more technical issues and goals. As the subject matter
-        expert, I examine a client’s criteria, design the appropriate enterprise-level solution,
-        and then lead a small, dedicated team in implementation.
+        expert, I examined a client’s criteria, designed the appropriate enterprise-level solution,
+        and then led a small, dedicated team in implementation.
 
     - role: Storage Technician, Message Archiver & Backup Service
       time: 2013 - 2015

@@ -35,10 +35,10 @@ sidebar:
       - item: Travel
         link:
 
-      - item: Techno & House Music
+      - item: Detroit Techno & House Music
         link:
 
-      - item: Sci-Fi
+      - item: Kayaking
 
       - item: Politics
         link:
@@ -110,6 +110,7 @@ experience:
         Dynatrace Innovation Lab, the Dynatrace product team, Dynatrace Professional Services, and
         our most strategic Partners/Systems Integrators to help them achieve the same results we have
         seen at Dynatrace.
+
     - role: Cloud Solutions Architect
       time: 2015 - 2019
       company: RightBrain Networks - Ann Arbor, MI

@@ -30,18 +30,13 @@ sidebar:
 
     interests:
       - item: Star Trek
-        link:
-
-      - item: Travel
-        link:
+        link: https://www.startrek.com/
 
       - item: Detroit Techno & House Music
-        link:
+        link: https://thedetroitilove.com/
 
       - item: Kayaking
-
-      - item: Politics
-        link:
+        link: https://huronriverwatertrail.org/
 
       - item: Horn
         link: https://www.hornsociety.org/
@@ -106,7 +101,7 @@ experience:
       company: Dynatrace - Detroit, MI
       details: |
         Dynatrace goes beyond APM with a new vision on how applications should be built and managed
-        -- Autonomous Cloud Management (ACM). I work with Fortune 1000 companies together with the
+        -- Autonomous Cloud Enablement (ACE). I work with Fortune 1000 companies together with the
         Dynatrace Innovation Lab, the Dynatrace product team, Dynatrace Professional Services, and
         our most strategic Partners/Systems Integrators to help them achieve the same results we have
         seen at Dynatrace.

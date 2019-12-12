@@ -79,6 +79,18 @@ career-profile:
 ## Logo is optional, but if file name is provided (and located in assets/images/), then the name will be alt text.
 ## Link should be to validation or relevent website for your certification.
 certifications:
+    - name: Autonomous Cloud Lab Certified Instructor
+      link: https://www.youracclaim.com/badges/84e5b69d-5308-4b6e-8617-54b23b0a57cd/public_url
+      logo: daci.png
+
+    - name: Autonomous Cloud Management Endorsement
+      link: https://www.youracclaim.com/badges/b29ba781-4553-42a4-9625-1bbe1e688cac/public_url
+      logo: dae.png
+
+    - name: Certified Associate
+      link: https://www.youracclaim.com/badges/440d3585-826e-43ac-899a-a1ff1325e43c/public_url
+      logo: dca.png
+
     - name: SysOps Administrator - Associate
       link: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2015-11-03&ci=AWS00160002
       logo: sea.png
@@ -100,11 +112,14 @@ experience:
       time: 2019 - Present
       company: Dynatrace - Detroit, MI
       details: |
-        Dynatrace goes beyond APM with a new vision on how applications should be built and managed
-        -- Autonomous Cloud Enablement (ACE). I work with Fortune 1000 companies together with the
-        Dynatrace Innovation Lab, the Dynatrace product team, Dynatrace Professional Services, and
-        our most strategic Partners/Systems Integrators to help them achieve the same results we have
-        seen at Dynatrace.
+        The Autonomous Cloud is the transformation of IT from manual operations to autonomous,
+        NoOps cloud operations. This brings AI and advanced automation for DevOps practices
+        and cloud native environments to achieve continuous software delivery pipelines and
+        automated operations. I help IT organizations leverage the Autonomous Cloud Enablement
+        (ACE) practice to create an autonomous cloud strategic vision, identify where to get
+        started, provide hands-on expertise along the journey, and deliver rapid, meaningful
+        automation services engagements to deliver unbreakable delivery pipelines and NoOps
+        cloud operations.
 
     - role: Cloud Solutions Architect
       time: 2015 - 2019
@@ -176,7 +191,7 @@ experience:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies
 
     toolset:
       - name: Amazon Web Services
@@ -185,11 +200,14 @@ skills:
       - name: Microsoft Azure
         level: 55%
 
+      - name: Google Cloud Platform
+        level: 45%
+
       - name: JenkinsCI
         level: 75%
 
       - name: Kubernetes
-        level: 60%
+        level: 65%
 
       - name: Terraform
         level: 80%
@@ -210,10 +228,13 @@ skills:
         level: 75%
 
       - name: Chef
-        level: 65%
+        level: 55%
 
       - name: SaltStack
-        level: 70%
+        level: 60%
+
+      - name: Ansible
+        level: 50%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

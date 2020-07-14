@@ -108,8 +108,18 @@ certifications:
       logo: sap.png
 
 experience:
+    - role: Senior DevOps Engineer
+      time: 2020
+      company: Katerra - Ann Arbor, MI
+      details: |
+        Katerra Apollo is a software platform and suite of applications designed to support
+        building projects and teams from beginning to end. In this role, I was responsible for
+        designing and implementing enterprise infrastructure, platforms, and end user
+        applications for cloud computing environments while securely integrating them with
+        current applications.
+
     - role: Autonomous Cloud Architect
-      time: 2019 - Present
+      time: 2019 - 2020
       company: Dynatrace - Detroit, MI
       details: |
         The Autonomous Cloud is the transformation of IT from manual operations to autonomous,
@@ -206,11 +216,14 @@ skills:
       - name: JenkinsCI
         level: 75%
 
+      - name: GitLab
+        level: 50%
+
       - name: Kubernetes
-        level: 65%
+        level: 70%
 
       - name: Terraform
-        level: 80%
+        level: 85%
 
       - name: Powershell
         level: 40%

@@ -109,7 +109,7 @@ certifications:
 
 experience:
     - role: Senior DevOps Engineer
-      time: 2020
+      time: Apr 2020 - Jun 2020
       company: Katerra - Ann Arbor, MI
       details: |
         Katerra Apollo is a software platform and suite of applications designed to support
@@ -119,7 +119,7 @@ experience:
         current applications.
 
     - role: Autonomous Cloud Architect
-      time: 2019 - 2020
+      time: Apr 2019 - Apr 2020
       company: Dynatrace - Detroit, MI
       details: |
         The Autonomous Cloud is the transformation of IT from manual operations to autonomous,
@@ -132,7 +132,7 @@ experience:
         cloud operations.
 
     - role: Cloud Solutions Architect
-      time: 2015 - 2019
+      time: Mar 2015 - Apr 2019
       company: RightBrain Networks - Ann Arbor, MI
       details: |
         I was often the first technical resource made available to a new or potential client,
@@ -143,7 +143,7 @@ experience:
         and then led a small, dedicated team in implementation.
 
     - role: Storage Technician, Message Archiver & Backup Service
-      time: 2013 - 2015
+      time: May 2013 - Mar 2015
       company: Barracuda Networks - Ann Arbor, MI
       details: |
         I was the first-line technical resource for customers who require assistance. This
@@ -221,6 +221,9 @@ skills:
 
       - name: Kubernetes
         level: 70%
+
+      - name: Helm
+        level: 40%
 
       - name: Terraform
         level: 85%

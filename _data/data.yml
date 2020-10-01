@@ -86,6 +86,14 @@ career-profile:
 ## Logo is optional, but if file name is provided (and located in assets/images/), then the name will be alt text.
 ## Link should be to validation or relevent website for your certification.
 certifications:
+    - name: Solutions Architect - Professional
+      link: https://www.youracclaim.com/badges/efd68046-189e-4bc9-91c1-38d6e59b58ca/public_url
+      logo: sap.png
+
+    - name: DevOps Engineer - Professional
+      link: https://www.youracclaim.com/badges/52c144ee-2fd9-41fc-82da-86489107c524/public_url
+      logo: dep.png
+
     - name: Autonomous Cloud Lab Certified Instructor
       link: https://www.youracclaim.com/badges/84e5b69d-5308-4b6e-8617-54b23b0a57cd/public_url
       logo: daci.png
@@ -97,22 +105,6 @@ certifications:
     - name: Certified Associate
       link: https://www.youracclaim.com/badges/440d3585-826e-43ac-899a-a1ff1325e43c/public_url
       logo: dca.png
-
-    - name: SysOps Administrator - Associate
-      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2015-11-03&ci=AWS00160002
-      logo: sea.png
-
-    - name: Solutions Architect - Associate
-      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2016-02-02&ci=AWS00160002
-      logo: saa.png
-
-    - name: DevOps Engineer - Professional
-      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2016-05-31&ci=AWS00160002
-      logo: dep.png
-
-    - name: Solutions Architect - Professional
-      link: https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2017-03-14&ci=AWS00160002
-      logo: sap.png
 
 experience:
     - role: Senior DevOps Engineer, Consultant

@@ -110,7 +110,8 @@ experience:
     - role: Senior DevOps Engineer, Consultant
       time: Sep 2020 - Present
       company: Taos - San Jose, CA
-      #details: |
+      details: |
+        - Participated in technical deep-dives with customers to help validate and scope potential engagements
 
     - role: Senior DevOps Engineer
       time: Apr 2020 - Jun 2020

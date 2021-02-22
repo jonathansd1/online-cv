@@ -118,6 +118,10 @@ experience:
       company: Taos - San Jose, CA
       details: |
         - Participated in technical deep-dives with customers to help validate and scope potential engagements
+        - Dissected and documented existing applications deployed to both physical data centers and AWS
+        - Created and executed a plan for migrating an existing containerized application to dedicated AWS infrastructure via Terraform and Drone
+        - Improved automation for the deployment of new infrastructure and web applications via Terraform and Jenkins
+
 
     - role: Senior DevOps Engineer
       time: Apr 2020 - Jun 2020

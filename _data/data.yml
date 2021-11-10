@@ -113,11 +113,13 @@ certifications:
       logo: dca.png
 
 experience:
-    - role: Senior DevOps Engineer
-      time: Sept 2021 - Present
-      company: Care.com
+    - role: Senior DevOps Engineer (CI/CD)
+      time: Sept 2021 - Nov 2021
+      company: Care.com - Austin, TX
       details: |
-        - Specializing in automated deployments of microservices and serverless applications
+        - Managed code delivery and permissions for containerized AI training built on AWS SageMaker and Lambda
+        - Helped improve functionality of delivery pipelines for AWS Lambda-based microservices
+        - Created documentation and standards for managing multiple Jenkins instances
 
     - role: Senior DevOps Engineer, Consultant
       time: Sep 2020 - Sep 2021
@@ -238,8 +240,14 @@ skills:
       - name: JenkinsCI
         level: 75%
 
+      - name: Harness
+        level: 40%
+
       - name: GitLab
-        level: 50%
+        level: 40%
+
+      - name: Docker
+        level: 75%
 
       - name: Kubernetes
         level: 70%
@@ -260,7 +268,7 @@ skills:
         level: 40%
 
       - name: Ruby
-        level: 35%
+        level: 30%
 
       - name: Git
         level: 75%

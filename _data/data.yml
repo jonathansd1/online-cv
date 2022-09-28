@@ -50,9 +50,9 @@ career-profile:
       a set of varied skills centered around automation and “everything-as-code”.
       He has often been called upon to design, implement, and support cloud-based
       architectures while also developing delivery pipelines for the code that runs
-      on that infrastructure. Jonathan’s strengths lie in a thorough knowledge of AWS,
-      an understanding of development, testing, and deployment strategies for microservices 
-      on Kubernetes, his experience codifying infrastructure via Terraform, and his 
+      on that infrastructure. Jonathan’s strengths lie in a thorough knowledge of cloud architecture,
+      an understanding of development, testing, and deployment strategies for containerized
+      microservices, his experience codifying infrastructure, and his 
       ingenuity in enabling application migrations to various cloud platforms. He is
       most in his element when closely collaborating with a small, dedicated team of
       developers and engineers while helping to ensure best practices for infrastructure-as-code,

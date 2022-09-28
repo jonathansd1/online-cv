@@ -37,11 +37,11 @@ sidebar:
       - item: Detroit Techno & House Music
         link: https://thedetroitilove.com/
 
-      - item: Kayaking
-        link: https://huronriverwatertrail.org/
+      - item: Parenting
+        link: https://en.wikipedia.org/wiki/Parenting
 
-      - item: Horn
-        link: https://www.hornsociety.org/
+      - item: Community Building
+        link: https://en.wikipedia.org/wiki/Community_building
 
 career-profile:
     title: Summary
@@ -113,6 +113,15 @@ certifications:
       logo: dca.png
 
 experience:
+    - role: Senior DevOps Engineer
+      time: Jan 2022 - Sept 2022
+      company: iFIT - Logan, UT
+      details: |
+        - Helped migrate monitoring and alerting from AWS CloudWatch to Datadog
+        - Worked on implementing CI/CD pipelines via GitHub Actions
+        - Created Terraform modules to be used by teams across the organization
+        - Supported development teams with data migrations in MongoDB Atlas and new service deployments
+
     - role: Senior DevOps Engineer (CI/CD)
       time: Sept 2021 - Nov 2021
       company: Care.com - Austin, TX
@@ -232,7 +241,7 @@ skills:
         level: 90%
 
       - name: Microsoft Azure
-        level: 55%
+        level: 45%
 
       - name: Google Cloud Platform
         level: 45%
@@ -241,9 +250,12 @@ skills:
         level: 75%
 
       - name: Harness
-        level: 40%
+        level: 35%
 
       - name: GitLab
+        level: 35%
+
+      - name: GitHub Actions
         level: 40%
 
       - name: Docker
@@ -255,8 +267,11 @@ skills:
       - name: Helm
         level: 40%
 
+      - name: Datadog
+        level: 50%
+
       - name: Terraform
-        level: 85%
+        level: 90%
 
       - name: Powershell
         level: 40%
@@ -265,7 +280,7 @@ skills:
         level: 75%
 
       - name: Python
-        level: 40%
+        level: 45%
 
       - name: Ruby
         level: 30%
@@ -274,10 +289,10 @@ skills:
         level: 75%
 
       - name: Chef
-        level: 55%
+        level: 50%
 
       - name: SaltStack
-        level: 60%
+        level: 50%
 
       - name: Ansible
         level: 50%

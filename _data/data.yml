@@ -29,6 +29,12 @@ sidebar:
         level: Native
       - idiom: German
         level: Beginner
+      - idiom: Python
+        level: Intermediate
+      - idiom: Ruby
+        level: Beginner
+      - idiom: Golang
+        level: Beginner
 
     interests:
       - item: Star Trek
@@ -113,6 +119,16 @@ certifications:
       logo: dca.png
 
 experience:
+    - role: Senior Site-Reliability Engineer
+      time: Jan 2023 - Feb 2024
+      company: Coupa Software - Ann Arbor, MI
+      details: |
+        - Took part in a Cost Optimization initiative, resulting in a reduction of approximately $3 million dollars in monthly spend
+        - Automated deployment and provisioning of EC2-backed SQL instances
+        - Automated the auditing process for thousands of EC2 instances across multiple AWS accounts
+        - Automated the deployment of security and monitoring agents to EC2 instances in production environments
+        - Created a custom Terraform provider to create and maintain third-party resources used by mission-critical applications
+
     - role: Senior DevOps Engineer
       time: Jan 2022 - Sept 2022
       company: iFIT - Logan, UT
@@ -270,6 +286,9 @@ skills:
       - name: Datadog
         level: 50%
 
+      - name: Dynatrace
+        level: 50%
+
       - name: Terraform
         level: 90%
 
@@ -283,6 +302,9 @@ skills:
         level: 45%
 
       - name: Ruby
+        level: 30%
+
+      - name: Golang
         level: 30%
 
       - name: Git

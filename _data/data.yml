@@ -119,6 +119,15 @@ certifications:
       logo: dca.png
 
 experience:
+    - role: Senior DevOps Engineer
+      time: Aug 2024 - Present
+      company: Apex Systems
+      details: |
+        - Currently working with Ford ProIntelligence team
+        - Managing the DevOps requirements for multiple development teams
+        - Developing additional features for Jenkins pipelines
+        - Using Terraform to manage and deploy resources in Google Cloud Platform
+
     - role: Senior Site-Reliability Engineer
       time: Jan 2023 - Feb 2024
       company: Coupa Software - Ann Arbor, MI
@@ -257,19 +266,19 @@ skills:
         level: 90%
 
       - name: Microsoft Azure
-        level: 45%
+        level: 40%
 
       - name: Google Cloud Platform
-        level: 45%
+        level: 55%
 
       - name: JenkinsCI
         level: 75%
 
       - name: Harness
-        level: 35%
+        level: 30%
 
       - name: GitLab
-        level: 35%
+        level: 30%
 
       - name: GitHub Actions
         level: 40%

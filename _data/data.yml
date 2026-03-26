@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: me@jonathanduggan.info
+    email: inquiries@jonathanduggan.info
     #phone: 012 345 6789
     #website:  #do not add http://
     linkedin: j-duggan
@@ -35,34 +35,17 @@ sidebar:
         level: Beginner
       - idiom: Golang
         level: Beginner
+      - idiom: Groovy
+        level: Intermediate
 
-    interests:
-      - item: Star Trek
-        link: https://www.startrek.com/
-
-      - item: Detroit Techno & House Music
-        link: https://thedetroitilove.com/
-
-      - item: Parenting
-        link: https://en.wikipedia.org/wiki/Parenting
-
-      - item: Community Building
-        link: https://en.wikipedia.org/wiki/Community_building
+#    interests:
+#      - item: Star Trek
+#        link: https://www.startrek.com/
 
 career-profile:
     title: Summary
     summary: |
-      Since beginning his work in DevOps and cloud technologies, Jonathan has built
-      a set of varied skills centered around automation and “everything-as-code”.
-      He has often been called upon to design, implement, and support cloud-based
-      architectures while also developing delivery pipelines for the code that runs
-      on that infrastructure. Jonathan’s strengths lie in a thorough knowledge of cloud architecture,
-      an understanding of development, testing, and deployment strategies for containerized
-      microservices, his experience codifying infrastructure, and his 
-      ingenuity in enabling application migrations to various cloud platforms. He is
-      most in his element when closely collaborating with a small, dedicated team of
-      developers and engineers while helping to ensure best practices for infrastructure-as-code,
-      configuration management, and version control.
+      Since beginning his work in DevOps and cloud-based technologies, Jonathan has built a set of varied skills centered around automation and “everything-as-code”. He has most often helped lead efforts to design, implement, and support both cloud-native infrastructures and automated delivery pipelines for enterprise-level software. Jonathan’s strengths lie in his experience with various cloud platforms, development lifecycles, and deployment strategies for containerized microservices. He is most in his element when closely collaborating with a small, dedicated team of developers and engineers with a focus on best practices for infrastructure-as-code, configuration management, and code management.
 
 #education:
 #    - degree:
@@ -120,13 +103,13 @@ certifications:
 
 experience:
     - role: Senior DevOps Engineer
-      time: Aug 2024 - Present
+      time: Aug 2024 - Mar 2026
       company: Apex Systems
       details: |
-        - Currently working with Ford ProIntelligence team
-        - Managing the DevOps requirements for multiple development teams
-        - Developing additional features for Jenkins pipelines
-        - Using Terraform to manage and deploy resources in Google Cloud Platform
+        - Contributor on the Mavericks team for Ford ProIntelligence
+        - Managing the DevOps requirements and requests of multiple development teams
+        - Developed additional features for Jenkins pipelines
+        - Used Terraform to manage and deploy resources in Google Cloud Platform
 
     - role: Senior Site-Reliability Engineer
       time: Jan 2023 - Feb 2024
@@ -263,13 +246,13 @@ skills:
 
     toolset:
       - name: Amazon Web Services
-        level: 90%
+        level: 80%
 
       - name: Microsoft Azure
-        level: 40%
+        level: 35%
 
       - name: Google Cloud Platform
-        level: 55%
+        level: 65%
 
       - name: JenkinsCI
         level: 75%
@@ -301,8 +284,8 @@ skills:
       - name: Terraform
         level: 90%
 
-      - name: Powershell
-        level: 40%
+      - name: Groovy
+        level: 50%
 
       - name: Bash
         level: 75%

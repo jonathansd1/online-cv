@@ -76,30 +76,30 @@ career-profile:
 
 ## Logo is optional, but if file name is provided (and located in assets/images/), then the name will be alt text.
 ## Link should be to validation or relevent website for your certification.
-certifications:
-    - name: Solutions Architect - Professional
-      link: https://www.youracclaim.com/badges/efd68046-189e-4bc9-91c1-38d6e59b58ca/public_url
-      logo: sap.png
-
-    - name: DevOps Engineer - Professional
-      link: https://www.youracclaim.com/badges/52c144ee-2fd9-41fc-82da-86489107c524/public_url
-      logo: dep.png
-
-    - name: Terraform - Associate
-      link: https://www.youracclaim.com/badges/ba45985b-75b7-4381-85b5-118c2dffcda4/public_url
-      logo: hcta.png
-
-    - name: Autonomous Cloud Lab Certified Instructor
-      link: https://www.youracclaim.com/badges/84e5b69d-5308-4b6e-8617-54b23b0a57cd/public_url
-      logo: daci.png
-
-    - name: Autonomous Cloud Management Endorsement
-      link: https://www.youracclaim.com/badges/b29ba781-4553-42a4-9625-1bbe1e688cac/public_url
-      logo: dae.png
-
-    - name: Certified Associate
-      link: https://www.youracclaim.com/badges/440d3585-826e-43ac-899a-a1ff1325e43c/public_url
-      logo: dca.png
+#certifications:
+#    - name: Solutions Architect - Professional
+#      link: https://www.youracclaim.com/badges/efd68046-189e-4bc9-91c1-38d6e59b58ca/public_url
+#      logo: sap.png
+#
+#    - name: DevOps Engineer - Professional
+#      link: https://www.youracclaim.com/badges/52c144ee-2fd9-41fc-82da-86489107c524/public_url
+#      logo: dep.png
+#
+#    - name: Terraform - Associate
+#      link: https://www.youracclaim.com/badges/ba45985b-75b7-4381-85b5-118c2dffcda4/public_url
+#      logo: hcta.png
+#
+#    - name: Autonomous Cloud Lab Certified Instructor
+#      link: https://www.youracclaim.com/badges/84e5b69d-5308-4b6e-8617-54b23b0a57cd/public_url
+#      logo: daci.png
+#
+#    - name: Autonomous Cloud Management Endorsement
+#      link: https://www.youracclaim.com/badges/b29ba781-4553-42a4-9625-1bbe1e688cac/public_url
+#      logo: dae.png
+#
+#    - name: Certified Associate
+#      link: https://www.youracclaim.com/badges/440d3585-826e-43ac-899a-a1ff1325e43c/public_url
+#      logo: dca.png
 
 experience:
     - role: Senior DevOps Engineer
